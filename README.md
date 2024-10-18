@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Giftlin27
-- 👀 I’m interested in electronics
-- 🌱 I’m currently learning Electronics and Communications Engineering 
+# Giftlin DK
 
+**'Digital Nomad (Developer/Explorer/Problem Solver)'**
+
+I am a LabVIEW Developer currently working at Soliton Technologies as Project Engineer. Exploring Semiconductor validation, Cloud and Gen AI. Solving technical problems to drive humanity forward.
 
 <!---
 Giftlin27/Giftlin27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
